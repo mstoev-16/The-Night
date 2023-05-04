@@ -1,0 +1,8 @@
+You wake up thirsty in your room in the middle of
+a warm summer night. You get out of your bed and
+head towards the kitchen for a glass of water. As
+you are leaving the room, you hear a noise coming
+from the bathroom as if something dropped on the
+floor. It can't be your parents since they left
+town last night. Choose (1) to hide in your room
+or choose (2) to approach bathroom: 

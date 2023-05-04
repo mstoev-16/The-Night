@@ -1,0 +1,7 @@
+You still think it would be risky to try to run.
+The intruder is now walking towards the closet you
+are hiding in. Maybe it was a bad idea to wait
+that much. Do you try and make a run for it while
+you still have enough time (1), or will you stay
+still and hope he doesn't see you in the dark
+(2): 

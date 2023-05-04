@@ -1,0 +1,7 @@
+You go in your closet and shut the door. After
+some time, you hear footsteps and the room's 
+door opens. Through the tiny holes of the closet
+door you see a shadowy figure approaching your bed
+that stops to lean and check under it. If you feel
+like you can sneak behind it proceed to (1),
+otherwise wait (2): 
