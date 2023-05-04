@@ -12,6 +12,12 @@ Making a text-based game was something I always wanted to try and the *The Night
 - You will be prompted to make choices by typing numbers or letters. Keep in mind that this game is not really error-proofed so any wrong input will result in an error.
 
 - In some cases, the game will prompt you to continue the game by typing the letter 'c'. If you enter something different, the same message will be prompted again until the correct letter is entered.
+
+
+## Documentation (Mapping of the choices)
+[The Night - mapping.pdf](https://github.com/mstoev-16/The-Night/files/11398836/The.Night.-.mapping.pdf)
+
+
 ## Author
 
 - [@mstoev-16](https://github.com/mstoev-16)
